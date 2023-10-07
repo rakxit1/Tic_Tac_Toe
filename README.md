@@ -1,8 +1,8 @@
 # TicTacToe
 
-![multiplayer Game 3X3](/media/multiplayer Game 3X3.mp4)
-![multiplayer Game 4X4](/media/multiplayer Game 4X4.mp4)
-![Play with robot](/media/Play with robot.mp4)
+![multiplayer Game 3X3](/media/multiplayer_Game_3X3.mp4)
+![multiplayer Game 4X4](/media/multiplayer_Game_4X4.mp4)
+![Play with robot](/media/Play_with_robot.mp4)
 
 This was one of my practice project when i started learning react native
 
