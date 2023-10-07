@@ -1,5 +1,9 @@
 # TicTacToe
 
+[![multiplayer Game 3X3]('./media/multiplayer Game 3X3.mp4')]
+[![multiplayer Game 4X4]('./media/multiplayer Game 4X4.mp4')]
+[![Play with robot]('./media/Play with robot.mp4')]
+
 This was one of my practice project when i started learning react native
 
 This project is a TicTacToe game implemented in React Native. It's a simple and classic game where two players take turns marking a cell in a 3x3 or 4x4 grid. The objective is to align three or four of their respective marks horizontally, vertically, or diagonally before the opponent does.
