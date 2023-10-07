@@ -1,8 +1,10 @@
 # TicTacToe
 
-![multiplayer Game 3X3](/media/multiplayer_Game_3X3.mp4)
-![multiplayer Game 4X4](/media/multiplayer_Game_4X4.mp4)
-![Play with robot](/media/Play_with_robot.mp4)
+https://github.com/rakxit1/Tic_Tac_Toe/assets/132134220/b5b57616-e495-40b1-bba2-bd146fe6bcee
+
+https://github.com/rakxit1/Tic_Tac_Toe/assets/132134220/ac0648a1-e462-416b-91f7-53de21af35cb
+
+https://github.com/rakxit1/Tic_Tac_Toe/assets/132134220/c19f115a-a012-440b-8c43-03d0a38b1e6c
 
 This was one of my practice project when i started learning react native
 
