@@ -1,6 +1,6 @@
 # TicTacToe
 
-https://github.com/rakxit1/Tic_Tac_Toe/assets/132134220/b5b57616-e495-40b1-bba2-bd146fe6bcee
+https://github.com/rakxit1/Tic_Tac_Toe/assets/132134220/3bc986e5-6078-4a10-94b5-ca63d755ef57
 
 https://github.com/rakxit1/Tic_Tac_Toe/assets/132134220/ac0648a1-e462-416b-91f7-53de21af35cb
 
